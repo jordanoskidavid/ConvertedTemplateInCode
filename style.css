@@ -65,8 +65,9 @@
 .dropdown:hover .dropbtn {
     background-color: snow;
 }
+
 /* ORANGE BOX FIRST SLIDE*/
-.first-orange-box{
+.first-orange-box {
     width: 330px;
     height: 200px;
     position: absolute;
@@ -74,7 +75,8 @@
     left: 295px;
     top: 85px;
 }
-.second-orange-box{
+
+.second-orange-box {
     width: 100px;
     height: 100px;
     top: 590px;
@@ -82,7 +84,8 @@
     background: #e78a00;
     left: 90px;
 }
-.second-orange-box-text{
+
+.second-orange-box-text {
     position: absolute;
     top: -10px;
     left: 8px;
@@ -93,13 +96,15 @@
     margin: 0;
     color: snow;
 }
-.mountain-div-1 img{
+
+.mountain-div-1 img {
     position: absolute;
     width: 540px;
     height: 540px;
     top: 117px;
 }
-.third-orange-box{
+
+.third-orange-box {
     width: 800px;
     height: 450px;
     top: 150px;
@@ -108,20 +113,23 @@
     opacity: 0.7;
     left: 570px;
 }
-.third-orange-box-text-title{
+
+.third-orange-box-text-title {
     position: absolute;
     left: 56px;
     top: 15px;
     color: snow;
     font-size: 75px;
 }
-.third-orange-box-text-text{
+
+.third-orange-box-text-text {
     position: absolute;
     color: snow;
     font-size: 17px;
     left: 59px;
     top: 250px;
 }
+
 .button {
     border: none;
     color: white;
@@ -148,4 +156,55 @@
     background-color: transparent;
     color: black;
     border: 2px solid black;
+}
+
+.next-arrow::before {
+    position: absolute;
+    content: " ";
+    border-right: 2px solid #e78a00;
+    border-top: 2px solid #e78a00;
+    width: 60px;
+    height: 60px;
+    top: 340px;
+    left: 1355px;
+    transform: rotate(45deg);
+    cursor: pointer;
+    display: block;
+}
+
+.prev-arrow::before {
+    content: " ";
+    position: absolute;
+    border-left: 2px solid #e78a00;
+    border-bottom: 2px solid #e78a00;
+    width: 60px;
+    height: 60px;
+    top: 340px;
+    left: 75px;
+    transform: rotate(45deg);
+    cursor: pointer;
+    display: block;
+}
+
+/* THIRD PART */
+.tours-logo1 img{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 750px;
+    left: 210px;
+}
+.tours-logo2 img{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 750px;
+    left: 700px;
+}
+.tours-logo3 img{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 750px;
+    left: 1170px;
 }
