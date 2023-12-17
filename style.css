@@ -180,31 +180,125 @@
     width: 60px;
     height: 60px;
     top: 340px;
-    left: 75px;
+    left: 69px;
     transform: rotate(45deg);
     cursor: pointer;
     display: block;
 }
 
 /* THIRD PART */
-.tours-logo1 img{
+.tours-logo1 img {
     position: absolute;
     width: 120px;
     height: 120px;
     top: 750px;
-    left: 210px;
+    left: 215px;
 }
-.tours-logo2 img{
+
+.tours-logo2 img {
     position: absolute;
     width: 120px;
     height: 120px;
     top: 750px;
+    left: 705px;
+}
+
+.tours-logo3 img {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 750px;
+    left: 1175px;
+}
+
+.tours-text p {
+    position: absolute;
+    top: 875px;
+    font-size: 37px;
+    left: 212px;
+}
+
+.tours-text2 p {
+    position: absolute;
+    top: 875px;
+    font-size: 37px;
+    left: 655px;
+}
+
+.tours-text3 p {
+    position: absolute;
+    top: 875px;
+    font-size: 37px;
+    left: 1152px;
+}
+
+.tours-text-lorem {
+    text-align: justify;
+    text-justify: inter-word;
+    position: absolute;
+    top: 940px;
+    font-size: 15px;
+    left: 98px;
+}
+
+.tours-text-lorem2 {
+    text-align: justify;
+    text-justify: inter-word;
+    position: absolute;
+    top: 940px;
+    font-size: 15px;
+    left: 585px;
+}
+
+.tours-text-lorem3 {
+    text-align: justify;
+    text-justify: inter-word;
+    position: absolute;
+    top: 940px;
+    font-size: 15px;
+    left: 1060px;
+}
+
+/* 4TH PART*/
+.fourth-first-orange-box {
+    width: 1100px;
+    height: 380px;
+    top: 1200px;
+    position: absolute;
+    background: #e78a00;
+    left: 270px;
+}
+
+.fourth-first-orange-box img {
+    position: absolute;
+    width: 520px;
+    height: 530px;
+    top: 265px;
+    left: 480px;
+}
+
+.winter-image img {
+    position: absolute;
+    width: 700px;
+    height: 415px;
+    top: 1100px;
+    left: 320px;
+}
+
+.third-winter img {
+    position: absolute;
+    width: 360px;
+    height: 440px;
+    top: 1300px;
+    left: 125px;
+}
+
+.text-over-winter-walk p {
+    position: absolute;
+    top: 1230px;
+    word-spacing: -1px;
+    font-size: 52px;
+    color: snow;
     left: 700px;
 }
-.tours-logo3 img{
-    position: absolute;
-    width: 120px;
-    height: 120px;
-    top: 750px;
-    left: 1170px;
-}
+
