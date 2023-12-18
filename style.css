@@ -336,3 +336,34 @@
     text-justify: auto;
     background-color: #ffffff;
 }
+
+/*5th PART*/
+.vertical-black-board{
+    position: absolute;
+    width: 4px;
+    height: 190px;
+    background-color: black;
+    top: 2250px;
+    left: 430px;
+}
+.creativity-in-touch{
+    position: absolute;
+    top: 2250px;
+    left: 557px;
+    font-size: 43px;
+}
+.creativity-in-touch-lorem-ipsum{
+    position: absolute;
+    top: 2320px;
+    left: 560px;
+    text-justify: auto;
+}
+.travel{
+    position: absolute;
+    font-size: 120px;
+    top: 2300px;
+    line-height: 115px;
+    left: 150px;
+    color: gray;
+    opacity: 0.7;
+}
