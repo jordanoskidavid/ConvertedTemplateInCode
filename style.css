@@ -338,7 +338,7 @@
 }
 
 /*5th PART*/
-.vertical-black-board{
+.vertical-black-board {
     position: absolute;
     width: 4px;
     height: 190px;
@@ -346,19 +346,22 @@
     top: 2250px;
     left: 430px;
 }
-.creativity-in-touch{
+
+.creativity-in-touch {
     position: absolute;
     top: 2250px;
     left: 557px;
     font-size: 43px;
 }
-.creativity-in-touch-lorem-ipsum{
+
+.creativity-in-touch-lorem-ipsum {
     position: absolute;
     top: 2320px;
     left: 560px;
     text-justify: auto;
 }
-.travel{
+
+.travel {
     position: absolute;
     font-size: 120px;
     top: 2300px;
@@ -366,4 +369,178 @@
     left: 150px;
     color: gray;
     opacity: 0.7;
+}
+
+.right-winter img {
+    position: absolute;
+    width: 290px;
+    height: 390px;
+    top: 2500px;
+    left: 830px;
+}
+
+.travel-winter-orange-box {
+    position: absolute;
+    background-color: #e78a00;
+    width: 210px;
+    height: 320px;
+    left: 700px;
+    top: 2625px;
+}
+
+.left-winter img {
+    position: absolute;
+    width: 240px;
+    height: 350px;
+    top: 2540px;
+    left: 420px;
+}
+
+.middle-winter img {
+    position: absolute;
+    width: 280px;
+    height: 400px;
+    top: 2575px;
+    left: 600px;
+}
+
+.left-text-6th-part .title-text-6th {
+    position: absolute;
+    top: 3000px;
+    font-size: 20px;
+    left: 420px;
+}
+
+.left-text-6th-part .title-text-6th-under {
+    position: absolute;
+    top: 3070px;
+    font-size: 16px;
+    left: 420px;
+    text-justify: auto;
+}
+
+.left-text-6th-part .title-text-6th-under-right {
+    position: absolute;
+    top: 3000px;
+    text-justify: auto;
+    font-size: 16px;
+    left: 780px;
+}
+/* 7th PART */
+.vertical-black-board-2 {
+    position: absolute;
+    width: 4px;
+    height: 200px;
+    background-color: black;
+    top: 3320px;
+    left: 130px;
+}
+.title-adventure-trips{
+    position: absolute;
+    top:3318px;
+    font-size: 35px;
+    left: 200px;
+}
+.title-adventure-trips-text{
+    position: absolute;
+    top: 3375px;
+    font-size: 16px;
+    left: 200px;
+}
+.finale img{
+    position: absolute;
+    top:3268px;
+    width: 320px;
+    height: 320px;
+    left:800px;
+}
+/* 8th PART */
+.final-winter-orange-box {
+    position: absolute;
+    background-color: #e78a00;
+    width: 500px;
+    height: 500px;
+    left: 480px;
+    top: 3660px;
+}
+.final-middle img{
+    position: absolute;
+    width:300px;
+    height: 500px;
+    left:570px;
+    top: 3740px;
+}
+.right-finale img{
+    position: absolute;
+    width:220px;
+    height: 330px;
+    left:950px;
+    top: 3740px;
+}
+.left-finale img{
+    position: absolute;
+    width:220px;
+    height: 270px;
+    left:285px;
+    top: 3950px;
+}
+.left-finale p{
+    position: absolute;
+    left:285px;
+    top: 3750px;
+    color: gray;
+    opacity: 0.7;
+    font-size: 15px;
+}
+.right-finale p{
+    position: absolute;
+    left:995px;
+    top: 4080px;
+    color: gray;
+    opacity: 0.7;
+    font-size: 15px;
+}
+.footer-logo img{
+    position: absolute;
+    width:100px;
+    height: 100px;
+    left:675px;
+    top: 4330px;
+}
+/* Footer */
+.fb img{
+    position: absolute;
+    width:20px;
+    height: 20px;
+    left:740px;
+    top: 4440px;
+}
+.instagram img{
+    position: absolute;
+    width:20px;
+    height: 20px;
+    left:690px;
+    top: 4440px;
+}
+.linkedin img{
+    position: absolute;
+    width:20px;
+    height: 20px;
+    left:715px;
+    top: 4440px;
+}
+.final-line{
+    position: absolute;
+    width:1200px;
+    height: 3px;
+    left: 137px;
+    top:4480px;
+    background-color: grey;
+    opacity: 0.7;
+}
+.final-text{
+    position: absolute;
+    top: 4500px;
+    left: 578px;
+    padding-bottom: 15px;
 }
