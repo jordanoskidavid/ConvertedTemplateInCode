@@ -426,6 +426,7 @@
     font-size: 16px;
     left: 780px;
 }
+
 /* 7th PART */
 .vertical-black-board-2 {
     position: absolute;
@@ -435,25 +436,29 @@
     top: 3320px;
     left: 130px;
 }
-.title-adventure-trips{
+
+.title-adventure-trips {
     position: absolute;
-    top:3318px;
+    top: 3318px;
     font-size: 35px;
     left: 200px;
 }
-.title-adventure-trips-text{
+
+.title-adventure-trips-text {
     position: absolute;
     top: 3375px;
     font-size: 16px;
     left: 200px;
 }
-.finale img{
+
+.finale img {
     position: absolute;
-    top:3268px;
+    top: 3268px;
     width: 320px;
     height: 320px;
-    left:800px;
+    left: 800px;
 }
+
 /* 8th PART */
 .final-winter-orange-box {
     position: absolute;
@@ -463,82 +468,93 @@
     left: 480px;
     top: 3660px;
 }
-.final-middle img{
+
+.final-middle img {
     position: absolute;
-    width:300px;
+    width: 300px;
     height: 500px;
-    left:570px;
+    left: 570px;
     top: 3740px;
 }
-.right-finale img{
+
+.right-finale img {
     position: absolute;
-    width:220px;
+    width: 220px;
     height: 330px;
-    left:950px;
+    left: 950px;
     top: 3740px;
 }
-.left-finale img{
+
+.left-finale img {
     position: absolute;
-    width:220px;
+    width: 220px;
     height: 270px;
-    left:285px;
+    left: 285px;
     top: 3950px;
 }
-.left-finale p{
+
+.left-finale p {
     position: absolute;
-    left:285px;
+    left: 285px;
     top: 3750px;
     color: gray;
     opacity: 0.7;
     font-size: 15px;
 }
-.right-finale p{
+
+.right-finale p {
     position: absolute;
-    left:995px;
+    left: 995px;
     top: 4080px;
     color: gray;
     opacity: 0.7;
     font-size: 15px;
 }
-.footer-logo img{
+
+.footer-logo img {
     position: absolute;
-    width:100px;
+    width: 100px;
     height: 100px;
-    left:675px;
+    left: 675px;
     top: 4330px;
 }
+
 /* Footer */
-.fb img{
+.fb img {
     position: absolute;
-    width:20px;
+    width: 20px;
     height: 20px;
-    left:740px;
+    left: 740px;
     top: 4440px;
 }
-.instagram img{
+
+.instagram img {
     position: absolute;
-    width:20px;
+    width: 20px;
     height: 20px;
-    left:690px;
+    left: 690px;
     top: 4440px;
 }
-.linkedin img{
+
+.linkedin img {
     position: absolute;
-    width:20px;
+    width: 20px;
     height: 20px;
-    left:715px;
+    left: 715px;
     top: 4440px;
 }
-.final-line{
+
+.final-line {
     position: absolute;
-    width:1200px;
+    width: 1200px;
     height: 3px;
     left: 137px;
-    top:4480px;
+    top: 4480px;
     background-color: grey;
     opacity: 0.7;
 }
-.final-text{
+
+.final-text {
     position: absolute;
     top: 4500px;
     left: 578px;
